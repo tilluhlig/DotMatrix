@@ -1,3 +1,3 @@
 DotMatrix
 =========
-![](/Bild.jpg)
+![](/Bild.JPG)
